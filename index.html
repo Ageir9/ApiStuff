@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>API shasizzle</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="dist/semantic.min.css">
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/t/dt/jq-2.2.0,dt-1.10.11,r-2.0.2/datatables.min.css"/>
+    </head>
+<body>
+<div class="ui container">
+    <h3 class="top">Há þrír hedder</h3>
+    <br><br>
+    <table id="Tabledisplay" class="display">
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Place</th>
+            <th>Victim</th>
+            <th>Killer</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- insert into here-->
+        <tr>
+            <script id="MainTable" type="text/x-handlebars-template">
+            <td>{{#victim}}</td>
+            <td>{{#each attackers}}</td>
+            </script>
+                
+            </tr>
+        <tr>
+            <td>TEST ROW</td>
+            <td>Please Ignore</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+    <script type="application/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="application/javascript" src ="dist/semantic.min.js"></script>
+    <script type="application/javascript" src="js/data.json"></script>
+    <script type="application/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/t/dt/jq-2.2.0,dt-1.10.11,r-2.0.2/datatables.min.js"></script>
+    <script type="text/javascript" src="js/handlebars-v4.0.5.js"></script>
+</body>
+</html> 
