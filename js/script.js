@@ -2,17 +2,23 @@
 /*jslint browser: true*/
 /*global $, jQuery, alert*/
 "use strict";
-$(document).ready(function () {
-    
-    //MODEL
-    var Model = function () {
-        $.getJSON("https://zkillboard.com/api/alliance/99006112/", function (killData) {
-            killData.forEach(function (data) {
+Vue.config.debug = true;
 
+new Vue({
+    el: '#nuggets',
+    data: {
+        loading : true,
+        output: {}
+    },
+    attached: function () {
+        var $this = this;
+        //https://zkillboard.com/api/alliance/99006112/
+        $.getJSON("js/data.json", function (killData) {
+            killData.forEach(function (data) {
                 var strippedData = data;
 
                 //Hendir burt óþarfa hlutum
-                delete strippedData.killID;
+                /*delete strippedData.killID;
                 delete strippedData.solarSystemID;
                 delete strippedData.moonID;
                 delete strippedData.victim.characterID;
@@ -30,32 +36,13 @@ $(document).ready(function () {
                 delete strippedData.items;
                 delete strippedData.zkb.locationID;
                 delete strippedData.zkb.hash;
-                delete strippedData.zkb.points;
+                delete strippedData.zkb.points;*/
                 //return data
-                return this;
             });
+            
+            $this.$data.output = killData;
+            console.log($this.output);
+            $this.loading = false;
         });
-    };
-    //VIEW
-    var View = function (Model) {
-        this.model = Model;
-        return this;
-    };
-    
-    View.prototype.render = function () {
-        document.getElementById('MainTable').innerHTML = this.output();
-    };
-    
-        
-    //CONTROLLER
-    var Controller = function (Model) {
-        return this;
-        
-    };
-    Controller.prototype.loadView = function (id) {
-        //Prepare view
-        var view = new View(Model);
-        //Load view
-        view.render();
-    };
+    }
 });
