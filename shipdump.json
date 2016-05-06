@@ -4,338 +4,1109 @@
 	}, {
 	"typeId": 583,
 	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
 	}, {
-	"typeId": 584,
-	"typeName": "Condor",
-	}"typeId": 585,
-	"typeName": "Bantam",
+    "typeId": 584,
+	"typeName": "Griffin",
 	}, {
-	"typeId": 586,
-	"typeName": "Condor",
-	}"typeId": 587,
-	"typeName": "Bantam",
+	"typeId": 585,
+	"typeName": "Slasher",
 	}, {
-	"typeId": 588,
-	"typeName": "Condor",
-	}"typeId": 589,
-	"typeName": "Bantam",
+    "typeId": 586,
+	"typeName": "Probe",
+	}, {
+	"typeId": 587,
+	"typeName": "Rifter",
+	}, {
+    "typeId": 589,
+	"typeName": "Executioner",
 	}, {
 	"typeId": 590,
-	"typeName": "Condor",
-	}"typeId": 591,
-	"typeName": "Bantam",
+	"typeName": "Inquisitor",
+	}, {
+    "typeId": 591,
+	"typeName": "Tormentor",
 	}, {
 	"typeId": 592,
-	"typeName": "Condor",
-	}"typeId": 593,
-	"typeName": "Bantam",
+	"typeName": "Navitas",
+	}, {
+    "typeId": 593,
+	"typeName": "Tristan",
 	}, {
 	"typeId": 594,
-	"typeName": "Condor",
-	}"typeId": 595,
-	"typeName": "Bantam",
+	"typeName": "Incursus",
+	}, {
+    "typeId": 595,
+	"typeName": "Gallente Police Ship",
 	}, {
 	"typeId": 597,
-	"typeName": "Condor",
-	}"typeId": 598,
-	"typeName": "Bantam",
+	"typeName": "Punisher",
+	}, {
+    "typeId": 598,
+	"typeName": "Breacher",
 	}, {
 	"typeId": 599,
-	"typeName": "Condor",
-	}"typeId": 600,
-	"typeName": "Bantam",
+	"typeName": "Burst",
+	}, {
+    "typeId": 600,
+	"typeName": "Minmatar Peacekeeper Ship",
 	}, {
 	"typeId": 602,
-	"typeName": "Condor",
-	}"typeId": 603,
-	"typeName": "Bantam",
+	"typeName": "Kestrel",
+	}, {
+    "typeId": 603,
+	"typeName": "Merlin",
 	}, {
 	"typeId": 605,
-	"typeName": "Condor",
-	}"typeId": 607,
-	"typeName": "Bantam",
+	"typeName": "Heron",
+	}, {
+    "typeId": 607,
+	"typeName": "Imicus",
 	}, {
 	"typeId": 608,
-	"typeName": "Condor",
-	}"typeId": 609,
-	"typeName": "Bantam",
+	"typeName": "Atron",
+	}, {
+    "typeId": 609,
+	"typeName": "Maulus",
 	}, {
 	"typeId": 613,
-	"typeName": "Condor",
-	}"typeId": 614,
-	"typeName": "Bantam",
+	"typeName": "Devourer",
+	}, {
+    "typeId": 614,
+	"typeName": "Fury",
 	}, {
 	"typeId": 616,
-	"typeName": "Condor",
-	}"typeId": 618,
-	"typeName": "Bantam",
+	"typeName": "Medusa",
 	}, {
-	"typeId": 619,
-	"typeName": "Condor",
-	}"typeId": 1896,
-	"typeName": "Bantam",
+    "typeId": 618,
+	"typeName": "Lynx",
 	}, {
-	"typeId": 1898,
-	"typeName": "Condor",
-	}"typeId": 1900,
-	"typeName": "Bantam",
+    "typeId": 619,
+    "typeName": "Swordspine",
+    }, {
+	"typeId": 1896,
+	"typeName": "CONCORD Police Frigate",
 	}, {
-	"typeId": 1902,
-	"typeName": "Condor",
-	}"typeId": 2161,
-	"typeName": "Bantam",
+    "typeId": 1898,
+	"typeName": "CONCORD SWAT Frigate",
 	}, {
-	"typeId": 3532,
-	"typeName": "Condor",
-	}"typeId": 3751,
-	"typeName": "Bantam",
+	"typeId": 1900,
+	"typeName": "CONCORD Army Frigate",
 	}, {
-	"typeId": 3753,
-	"typeName": "Condor",
-	}"typeId": 3766,
-	"typeName": "Bantam",
+    "typeId": 1902,
+	"typeName": "CONCORD Special Ops Frigate",
 	}, {
-	"typeId": 3768,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 2161,
+	"typeName": "Crucifier",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 3532,
+	"typeName": "Echelon",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 3751,
+	"typeName": "SOCT 1",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 3753,
+	"typeName": "SOCT 2",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 3766,
+	"typeName": "Vigil",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 3768,
+	"typeName": "Amarr Police Frigate",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 11019,
+	"typeName": "Cockroach",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 11940,
+	"typeName": "Gold Magnate",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 11942,
+	"typeName": "Silver Magnate",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 17360,
+	"typeName": "Immovable Enigma",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 17619,
+	"typeName": "Caldari Navy Hookbill",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 17703,
+	"typeName": "Imperial Navy Slicer",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 17705,
+	"typeName": "Khanid Navy Frigate",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 17707,
+	"typeName": "Mordus Frigate",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 17812,
+	"typeName": "Republic Fleet Firetail",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 17841,
+	"typeName": "Federation Navy Comet",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 17924,
+	"typeName": "Succubus",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 17926,
+	"typeName": "Cruor",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 17928,
+	"typeName": "Daredevil",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 17930,
+	"typeName": "Worm",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 29248,
+	"typeName": "Magnate",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 32880,
+	"typeName": "Venture",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 32987,
+	"typeName": "Sarum Magnate",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 33468,
+	"typeName": "Astero",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 33677,
+	"typeName": "Police Pursuit Comet",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 33816,
+	"typeName": "Garmur",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 37453,
+	"typeName": "Crucifier Navy Issue",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 37454,
+	"typeName": "Vigil Fleet Issue",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 37455,
+	"typeName": "Griffin Navy Issue",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 37456,
+	"typeName": "Maulus Navy Issue",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 620,
+	"typeName": "Osprey",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 621,
+	"typeName": "Caracal",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 622,
+	"typeName": "Stabber",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 623,
+	"typeName": "Moa",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 624,
+	"typeName": "Maller",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 625,
+	"typeName": "Augoror",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 626,
+	"typeName": "Vexor",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 627,
+	"typeName": "Thorax",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 628,
+	"typeName": "Arbitrator",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 629,
+	"typeName": "Rupture",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 630,
+	"typeName": "Bellicose",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 631,
+	"typeName": "Scythe",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 632,
+	"typeName": "Blackbird",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 633,
+	"typeName": "Celestis",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 634,
+	"typeName": "Exequror",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+	"typeId": 635,
+	"typeName": "Opux Luxury Yacht",
 	}, {
-	"typeId": 583,
-	"typeName": "Condor",
-	}"typeId": 582,
-	"typeName": "Bantam",
+    "typeId": 1904,
+	"typeName": "CONCORD Police Cruiser",
 	}, {
-	"typeId": 583,
+	"typeId": 2006,
+	"typeName": "Omen",
+	}, {
+    "typeId": 11011,
+	"typeName": "Guardian-Vexor",
+	}, {
+	"typeId": 17634,
+	"typeName": "Caracal Navy Issue",
+	}, {
+    "typeId": 17709,
+	"typeName": "Omen Navy Issue",
+	}, {
+	"typeId": 17713,
+	"typeName": "Stabber Fleet Issue",
+	}, {
+    "typeId": 17715,
+	"typeName": "Gila",
+	}, {
+    "typeId": 17718,
+	"typeName": "Phantasm",
+	}, {
+	"typeId": 17720,
+	"typeName": "Cynabal",
+	}, {
+    "typeId": 17722,
+	"typeName": "Vigilant",
+	}, {
+	"typeId": 17843,
+	"typeName": "Vexor Navy Issue",
+	}, {
+    "typeId": 17922,
+	"typeName": "Ashimuu",
+	}, {
+	"typeId": 25560,
+	"typeName": "Opux Dragoon Yacht",
+	}, {
+    "typeId": 29336,
+	"typeName": "Scythe Fleet Issue",
+	}, {
+	"typeId": 29337,
+	"typeName": "Augoror Navy Issue",
+	}, {
+    "typeId": 29340,
+	"typeName": "Osprey Navy Issue",
+	}, {
+	"typeId": 29344,
+	"typeName": "Exequror Navy Issue",
+	}, {
+    "typeId": 33470,
+	"typeName": "Stratios",
+	}, {
+	"typeId": 33553,
+	"typeName": "Stratios Emergency Responder",
+	}, {
+    "typeId": 33639,
+	"typeName": "Omen Kador Edition",
+	}, {
+	"typeId": 33818,
+	"typeName": "Orthrus",
+	}, {
+    "typeId": 34445,
+	"typeName": "Vexor Quafe Edition",
+	}, {
+    "typeId": 34590,
+	"typeName": "Victorieux Luxury Yacht",
+	}, {
+	"typeId": 638,
+	"typeName": "Raven",
+	}, {
+    "typeId": 639,
+	"typeName": "Tempest",
+	}, {
+	"typeId": 640,
+	"typeName": "Scorpion",
+	}, {
+    "typeId": 641,
+	"typeName": "Megathron",
+	}, {
+	"typeId": 642,
+	"typeName": "Apocalypse",
+	}, {
+    "typeId": 643,
+	"typeName": "Armageddon",
+	}, {
+	"typeId": 644,
+	"typeName": "Typhoon",
+	}, {
+    "typeId": 645,
+	"typeName": "Dominix",
+	}, {
+	"typeId": 1912,
+	"typeName": "CONCORD Police Battleship",
+	}, {
+    "typeId": 1914,
+	"typeName": "CONCORD Special Ops Battleship",
+	}, {
+	"typeId": 1916,
+	"typeName": "CONCORD SWAT Battleship",
+	}, {
+    "typeId": 1918,
+	"typeName": "CONCORD Army Battleship",
+	}, {
+	"typeId": 4005,
+	"typeName": "Scorpion Ishukone Watch",
+	}, {
+    "typeId": 11936,
+	"typeName": "Apocalypse Imperial Issue",
+	}, {
+	"typeId": 11938,
+	"typeName": "Armageddon Imperial Issue",
+	}, {
+    "typeId": 13202,
+	"typeName": "Megathron Federate Issue",
+	}, {
+	"typeId": 17636,
+	"typeName": "Raven Navy Issue",
+	}, {
+    "typeId": 17726,
+	"typeName": "Apocalypse Navy Issue",
+	}, {
+	"typeId": 17728,
+	"typeName": "Megathron Navy Issue",
+	}, {
+    "typeId": 17732,
+	"typeName": "Tempest Fleet Issue",
+	}, {
+	"typeId": 17736,
+	"typeName": "Nightmare",
+	}, {
+    "typeId": 17738,
+	"typeName": "Machariel",
+	}, {
+	"typeId": 17740,
+	"typeName": "Vindicator",
+	}, {
+    "typeId": 17918,
+	"typeName": "Rattlesnake",
+	}, {
+	"typeId": 17920,
+	"typeName": "Bhaalgorn",
+	}, {
+	"typeId": 24688,
+	"typeName": "Rokh",
+	}, {
+	"typeId": 24690,
+	"typeName": "Hyperion",
+	}, {
+	"typeId": 24692,
+	"typeName": "Abaddon",
+	}, {
+	"typeId": 24694,
+	"typeName": "Maelstrom",
+	}, {
+	"typeId": 26840,
+	"typeName": "Raven State Issue",
+	}, {
+	"typeId": 26842,
+	"typeName": "Tempest Tribal Issue",
+	}, {
+	"typeId": 32305,
+	"typeName": "Armageddon Navy Issue",
+	}, {
+	"typeId": 32307,
+	"typeName": "Dominix Navy Issue",
+	}, {
+	"typeId": 32309,
+	"typeName": "Scorpion Navy Issue",
+	}, {
+	"typeId": 32311,
+	"typeName": "Typhoon Fleet Issue",
+	}, {
+	"typeId": 33472,
+	"typeName": "Nestor",
+	}, {
+	"typeId": 33820,
+	"typeName": "Barghest",
+	}, {
+	"typeId": 34151,
+	"typeName": "Rattlesnake Victory Edition",
+	}, {
+	"typeId": 648,
+	"typeName": "Badger",
+	}, {
+	"typeId": 649,
+	"typeName": "Tayra",
+	}, {
+	"typeId": 650,
+	"typeName": "Nereus",
+	}, {
+	"typeId": 651,
+	"typeName": "Hoarder",
+	}, {
+	"typeId": 652,
+	"typeName": "Mammoth",
+	}, {
+	"typeId": 653,
+	"typeName": "Wreathe",
+	}, {
+	"typeId": 654,
+	"typeName": "Kryos",
+	}, {
+	"typeId": 655,
+	"typeName": "Epithal",
+	}, {
+	"typeId": 656,
+	"typeName": "Miasmos",
+	}, {
+	"typeId": 657,
+	"typeName": "Iteron Mark V",
+	}, {
+	"typeId": 1944,
+	"typeName": "Bestower",
+	}, {
+	"typeId": 2863,
+	"typeName": "Primae",
+	}, {
+	"typeId": 2998,
+	"typeName": "Noctis",
+	}, {
+	"typeId": 19744,
+	"typeName": "Sigil",
+	}, {
+	"typeId": 670,
+	"typeName": "Capsule",
+	}, {
+	"typeId": 33328,
+	"typeName": "Capsule - Genolution 'Auroral' 197-variant",
+	}, {
+	"typeId": 671,
+	"typeName": "Erebus",
+	}, {
+	"typeId": 3764,
+	"typeName": "Leviathan",
+	}, {
+	"typeId": 11567,
+	"typeName": "Avatar",
+	}, {
+	"typeId": 23773,
+	"typeName": "Ragnarok",
+	}, {
+	"typeId": 672,
+	"typeName": "Caldari Shuttle",
+	}, {
+	"typeId": 11129,
+	"typeName": "Gallente Shuttle",
+	}, {
+	"typeId": 11132,
+	"typeName": "Minmatar Shuttle",
+	}, {
+	"typeId": 11134,
+	"typeName": "Amarr Shuttle",
+	}, {
+	"typeId": 21097,
+	"typeName": "Goru's Shuttle",
+	}, {
+	"typeId": 21628,
+	"typeName": "Guristas Shuttle",
+	}, {
+	"typeId": 27299,
+	"typeName": "Civilian Amarr Shuttle",
+	}, {
+	"typeId": 27301,
+	"typeName": "Civilian Caldari Shuttle",
+	}, {
+	"typeId": 27303,
+	"typeName": "Civilian Gallente Shuttle",
+	}, {
+	"typeId": 27305,
+	"typeName": "Civilian Minmatar Shuttle",
+	}, {
+	"typeId": 29266,
+	"typeName": "Apotheosis",
+	}, {
+	"typeId": 29328,
+	"typeName": "Amarr Media Shuttle",
+	}, {
+	"typeId": 29330,
+	"typeName": "Caldari Media Shuttle",
+	}, {
+	"typeId": 29332,
+	"typeName": "Gallente Media Shuttle",
+	}, {
+	"typeId": 29334,
+	"typeName": "Minmatar Media Shuttle",
+	}, {
+	"typeId": 30842,
+	"typeName": "InterBus Shuttle",
+	}, {
+	"typeId": 33513,
+	"typeName": "Leopard",
+	}, {
+	"typeId": 34496,
+	"typeName": "Council Diplomatic Shuttle",
+	}, {
+	"typeId": 588,
+	"typeName": "Reaper",
+	}, {
+	"typeId": 596,
+	"typeName": "Impairor",
+	}, {
+	"typeId": 601,
+	"typeName": "Ibis",
+	}, {
+	"typeId": 606,
+	"typeName": "Velator",
+	}, {
+	"typeId": 615,
+	"typeName": "Immolator",
+	}, {
+	"typeId": 617,
+	"typeName": "Echo",
+	}, {
+	"typeId": 1233,
+	"typeName": "Condor",
+	}, {
+	"typeId": 9854,
+	"typeName": "Condor",
+	}, {
+	"typeId": 9858,
+	"typeName": "Condor",
+	}, {
+	"typeId": 9860,
+	"typeName": "Condor",
+	}, {
+	"typeId": 9862,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33079,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33081,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33083,
+	"typeName": "Condor",
+	}, {
+	"typeId": 2834,
+	"typeName": "Condor",
+	}, {
+	"typeId": 3516,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11365,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11371,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11373,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11375,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11379,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11381,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11383,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11389,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11393,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11400,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12036,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12042,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12044,
+	"typeName": "Condor",
+	}, {
+	"typeId": 32207,
+	"typeName": "Condor",
+	}, {
+	"typeId": 32788,
+	"typeName": "Condor",
+	}, {
+	"typeId": 2836,
+	"typeName": "Condor",
+	}, {
+	"typeId": 3518,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11993,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11999,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12003,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12005,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12011,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12015,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12019,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12023,
+	"typeName": "Condor",
+	}, {
+	"typeId": 32209,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12731,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12745,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12745,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12747,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12753,
+	"typeName": "Condor",
+	}, {
+	"typeId": 3756,
+	"typeName": "Condor",
+	}, {
+	"typeId": 16227,
+	"typeName": "Condor",
+	}, {
+	"typeId": 16229,
+	"typeName": "Condor",
+	}, {
+	"typeId": 16231,
+	"typeName": "Condor",
+	}, {
+	"typeId": 16233,
+	"typeName": "Condor",
+	}, {
+	"typeId": 24696,
+	"typeName": "Condor",
+	}, {
+	"typeId": 24698,
+	"typeName": "Condor",
+	}, {
+	"typeId": 24700,
+	"typeName": "Condor",
+	}, {
+	"typeId": 24102,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33151,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33153,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33155,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33157,
+	"typeName": "Condor",
+	}, {
+	"typeId": 16236,
+	"typeName": "Condor",
+	}, {
+	"typeId": 16238,
+	"typeName": "Condor",
+	}, {
+	"typeId": 16240,
+	"typeName": "Condor",
+	}, {
+	"typeId": 16242,
+	"typeName": "Condor",
+	}, {
+	"typeId": 32872,
+	"typeName": "Condor",
+	}, {
+	"typeId": 32874,
+	"typeName": "Condor",
+	}, {
+	"typeId": 32876,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33099,
+	"typeName": "Condor",
+	}, {
+	"typeId": 17476,
+	"typeName": "Condor",
+	}, {
+	"typeId": 17478,
+	"typeName": "Condor",
+	}, {
+	"typeId": 17480,
+	"typeName": "Condor",
+	}, {
+	"typeId": 19720,
+	"typeName": "Condor",
+	}, {
+	"typeId": 19722,
+	"typeName": "Condor",
+	}, {
+	"typeId": 19724,
+	"typeName": "Condor",
+	}, {
+	"typeId": 19726,
+	"typeName": "Condor",
+	}, {
+	"typeId": 20183,
+	"typeName": "Condor",
+	}, {
+	"typeId": 20185,
+	"typeName": "Condor",
+	}, {
+	"typeId": 20187,
+	"typeName": "Condor",
+	}, {
+	"typeId": 20189,
+	"typeName": "Condor",
+	}, {
+	"typeId": 34328,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22442,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22444,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22446,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22448,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22466,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22468,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22470,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22474,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22452,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22456,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22460,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22464,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22544,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22546,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22548,
+	"typeName": "Condor",
+	}, {
+	"typeId": 23757,
+	"typeName": "Condor",
+	}, {
+	"typeId": 23911,
+	"typeName": "Condor",
+	}, {
+	"typeId": 23915,
+	"typeName": "Condor",
+	}, {
+	"typeId": 24483,
+	"typeName": "Condor",
+	}, {
+	"typeId": 3541,
+	"typeName": "Condor",
+	}, {
+	"typeId": 3628,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22852,
+	"typeName": "Condor",
+	}, {
+	"typeId": 23913,
+	"typeName": "Condor",
+	}, {
+	"typeId": 23917,
+	"typeName": "Condor",
+	}, {
+	"typeId": 23919,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11172,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11182,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11188,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11192,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33397,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11176,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11178,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11184,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11186,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11196,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11198,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11200,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11202,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33673,
+	"typeName": "Condor",
+	}, {
+	"typeId": 35779,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11978,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11985,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11987,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11989,
+	"typeName": "Condor",
+	}, {
+	"typeId": 32790,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11957,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11963,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11965,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11969,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33395,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33675,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11377,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12032,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12037,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12038,
+	"typeName": "Condor",
+	}, {
+	"typeId": 28352,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11174,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11190,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11194,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11387,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11995,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12013,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12017,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12021,
+	"typeName": "Condor",
+	}, {
+	"typeId": 35781,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22428,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22430,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22436,
+	"typeName": "Condor",
+	}, {
+	"typeId": 22440,
+	"typeName": "Condor",
+	}, {
+	"typeId": 28659,
+	"typeName": "Condor",
+	}, {
+	"typeId": 28661,
+	"typeName": "Condor",
+	}, {
+	"typeId": 28665,
+	"typeName": "Condor",
+	}, {
+	"typeId": 28710,
+	"typeName": "Condor",
+	}, {
+	"typeId": 28844,
+	"typeName": "Condor",
+	}, {
+	"typeId": 28846,
+	"typeName": "Condor",
+	}, {
+	"typeId": 28848,
+	"typeName": "Condor",
+	}, {
+	"typeId": 28850,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11959,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11961,
+	"typeName": "Condor",
+	}, {
+	"typeId": 11971,
+	"typeName": "Condor",
+	}, {
+	"typeId": 20125,
+	"typeName": "Condor",
+	}, {
+	"typeId": 28606,
+	"typeName": "Condor",
+	}, {
+	"typeId": 29984,
+	"typeName": "Condor",
+	}, {
+	"typeId": 29986,
+	"typeName": "Condor",
+	}, {
+	"typeId": 29988,
+	"typeName": "Condor",
+	}, {
+	"typeId": 29990,
+	"typeName": "Condor",
+	}, {
+	"typeId": 2078,
+	"typeName": "Condor",
+	}, {
+	"typeId": 4302,
+	"typeName": "Condor",
+	}, {
+	"typeId": 4306,
+	"typeName": "Condor",
+	}, {
+	"typeId": 4308,
+	"typeName": "Condor",
+	}, {
+	"typeId": 4310,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12729,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12733,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12753,
+	"typeName": "Condor",
+	}, {
+	"typeId": 12743,
+	"typeName": "Condor",
+	}, {
+	"typeId": 33697,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37135,
+	"typeName": "Condor",
+	}, {
+	"typeId": 34317,
+	"typeName": "Condor",
+	}, {
+	"typeId": 34562,
+	"typeName": "Condor",
+	}, {
+	"typeId": 34828,
+	"typeName": "Condor",
+	}, {
+	"typeId": 35683,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37457,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37458,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37459,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37460,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37480,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37481,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37482,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37483,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37604,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37605,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37606,
+	"typeName": "Condor",
+	}, {
+	"typeId": 37607,
 	"typeName": "Condor",
 	}
-
-
-
 }]

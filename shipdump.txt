@@ -37,11 +37,6 @@ typeID,typeName
 3753,SOCT 2
 3766,Vigil
 3768,Amarr Police Frigate
-
-*********************************************
-ÉG ER KOMINN HINGAÐ
-*********************************************
-
 11019,Cockroach
 11940,Gold Magnate
 11942,Silver Magnate
@@ -59,23 +54,10 @@ typeID,typeName
 17932,Dramiel
 29248,Magnate
 32880,Venture
-32983,Sukuuvestaa Heron
-32985,Inner Zone Shipping Imicus
 32987,Sarum Magnate
-32989,Vherokior Probe
-33190,Tash-Murkon Magnate
 33468,Astero
-33655,Punisher Kador Edition
-33657,Punisher Tash-Murkon Edition
-33659,Merlin Nugoeihuvi Edition
-33661,Merlin Wiyrkomi Edition
-33663,Rifter Nefantar Edition
-33665,Rifter Krusual Edition
-33667,Incursus Aliastra Edition
-33669,Incursus Inner Zone Shipping Edition
 33677,Police Pursuit Comet
 33816,Garmur
-34443,Tristan Quafe Edition
 37453,Crucifier Navy Issue
 37454,Vigil Fleet Issue
 37455,Griffin Navy Issue
@@ -116,16 +98,9 @@ typeID,typeName
 33470,Stratios
 33553,Stratios Emergency Responder
 33639,Omen Kador Edition
-33641,Omen Tash-Murkon Edition
-33643,Caracal Nugoeihuvi Edition
-33645,Caracal Wiyrkomi Edition
-33647,Stabber Nefantar Edition
-33649,Stabber Krusual Edition
-33651,Thorax Aliastra Edition
-33653,Thorax Inner Zone Shipping Edition
 33818,Orthrus
 34445,Vexor Quafe Edition
-34475,???YC117????
+
 34590,Victorieux Luxury Yacht
 638,Raven
 639,Tempest
@@ -163,37 +138,9 @@ typeID,typeName
 32309,Scorpion Navy Issue
 32311,Typhoon Fleet Issue
 33472,Nestor
-33623,Abaddon Tash-Murkon Edition
-33625,Abaddon Kador Edition
-33627,Rokh Nugoeihuvi Edition
-33629,Rokh Wiyrkomi Edition
-33631,Maelstrom Nefantar Edition
-33633,Maelstrom Krusual Edition
-33635,Hyperion Aliastra Edition
-33637,Hyperion Inner Zone Shipping Edition
 33820,Barghest
-34118,Megathron Quafe Edition
 34151,Rattlesnake Victory Edition
-34213,Apocalypse Blood Raider Edition
-34215,Apocalypse Kador Edition
-34217,Apocalypse Tash-Murkon Edition
-34225,Raven Guristas Edition
-34227,Raven Kaalakiota Edition
-34229,Raven Nugoeihuvi Edition
-34237,Megathron Police Edition
-34239,Megathron Inner Zone Shipping Edition
-34247,Tempest Justice Edition
-34249,Tempest Krusual Edition
-34251,Tempest Nefantar Edition
-34441,Dominix Quafe Edition
-34457,?????YC117????
-34459,?????YC117????
-34461,????YC117????
-34463,????YC117????
-34465,??????YC117????
-34467,?????YC117????
-34469,???YC117????
-34471,???YC117????
+
 648,Badger
 649,Tayra
 650,Nereus
@@ -207,14 +154,7 @@ typeID,typeName
 1944,Bestower
 2863,Primae
 2998,Noctis
-4363,Miasmos Quafe Ultra Edition
-4388,Miasmos Quafe Ultramarine Edition
 19744,Sigil
-32811,Miasmos Amastris Edition
-33689,Iteron Inner Zone Shipping Edition
-33691,Tayra Wiyrkomi Edition
-33693,Mammoth Nefantar Edition
-33695,Bestower Tash-Murkon Edition
 670,Capsule
 33328,Capsule - Genolution 'Auroral' 197-variant
 671,Erebus
@@ -245,6 +185,12 @@ typeID,typeName
 606,Velator
 615,Immolator
 617,Echo
+
+***************
+KOMINN HINGAÐ
+***************
+|
+V
 1233,Polaris Enigma Frigate
 9854,Polaris Inspector Frigate
 9858,Polaris Centurion TEST
@@ -281,8 +227,6 @@ typeID,typeName
 12019,Sacrilege
 12023,Deimos
 32209,Mimir
-34477,???YC117????
-34479,????YC117????
 12731,Bustard
 12745,Occator
 12747,Mastodon
@@ -300,29 +244,15 @@ typeID,typeName
 33153,Drake Navy Issue
 33155,Harbinger Navy Issue
 33157,Hurricane Fleet Issue
-33869,Brutix Serpentis Edition
-33871,Cyclone Thukker Tribe Edition
-33873,Ferox Guristas Edition
-33875,Prophecy Blood Raiders Edition
-34473,???YC117????
 16236,Coercer
 16238,Cormorant
 16240,Catalyst
 16242,Thrasher
-32840,InterBus Catalyst
-32842,Intaki Syndicate Catalyst
-32844,Inner Zone Shipping Catalyst
-32846,Quafe Catalyst
-32848,Aliastra Catalyst
 32872,Algos
 32874,Dragoon
 32876,Corax
 32878,Talwar
 33099,Nefantar Thrasher
-33877,Catalyst Serpentis Edition
-33879,Coercer Blood Raiders Edition
-33881,Cormorant Guristas Edition
-33883,Thrasher Thukker Tribe Edition
 17476,Covetor
 17478,Retriever
 17480,Procurer
@@ -330,10 +260,6 @@ typeID,typeName
 19722,Naglfar
 19724,Moros
 19726,Phoenix
-34339,Moros Interbus Edition
-34341,Naglfar Justice Edition
-34343,Phoenix Wiyrkomi Edition
-34345,Revelation Sarum Edition
 20183,Providence
 20185,Charon
 20187,Obelisk
@@ -354,7 +280,6 @@ typeID,typeName
 22544,Hulk
 22546,Skiff
 22548,Mackinaw
-33683,Mackinaw ORE Development Edition
 23757,Archon
 23911,Thanatos
 23915,Chimera
@@ -396,7 +321,6 @@ typeID,typeName
 12034,Hound
 12038,Purifier
 28352,Rorqual
-33687,Rorqual ORE Development Edition
 11174,Keres
 11190,Sentinel
 11194,Kitsune
@@ -414,18 +338,6 @@ typeID,typeName
 28661,Kronos
 28665,Vargur
 28710,Golem
-34219,Paladin Blood Raider Edition
-34221,Paladin Kador Edition
-34223,Paladin Tash-Murkon Edition
-34231,Golem Guristas Edition
-34233,Golem Kaalakiota Edition
-34235,Golem Nugoeihuvi Edition
-34241,Kronos Police Edition
-34243,Kronos Quafe Edition
-34245,Kronos Inner Zone Shipping Edition
-34253,Vargur Justice Edition
-34255,Vargur Krusual Edition
-34257,Vargur Nefantar Edition
 28844,Rhea
 28846,Nomad
 28848,Anshar
@@ -435,7 +347,6 @@ typeID,typeName
 11971,Lachesis
 20125,Curse
 28606,Orca
-33685,Orca ORE Development Edition
 29984,Tengu
 29986,Legion
 29988,Proteus
