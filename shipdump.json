@@ -549,564 +549,564 @@
 	"typeName": "Echo",
 	}, {
 	"typeId": 1233,
-	"typeName": "Condor",
+	"typeName": "Polaris Enigma Frigate",
 	}, {
 	"typeId": 9854,
-	"typeName": "Condor",
+	"typeName": "Polaris Inspector Frigate",
 	}, {
 	"typeId": 9858,
-	"typeName": "Condor",
+	"typeName": "Polaris Centurion TEST",
 	}, {
 	"typeId": 9860,
-	"typeName": "Condor",
+	"typeName": "Polaris Legatus Frigate",
 	}, {
 	"typeId": 9862,
-	"typeName": "Condor",
+	"typeName": "Polaris Centurion Frigate",
 	}, {
 	"typeId": 33079,
-	"typeName": "Condor",
+	"typeName": "Hematos",
 	}, {
 	"typeId": 33081,
-	"typeName": "Condor",
+	"typeName": "Taipan",
 	}, {
 	"typeId": 33083,
-	"typeName": "Condor",
+	"typeName": "Violator",
 	}, {
 	"typeId": 2834,
-	"typeName": "Condor",
+	"typeName": "Utu",
 	}, {
 	"typeId": 3516,
-	"typeName": "Condor",
+	"typeName": "Malice",
 	}, {
 	"typeId": 11365,
-	"typeName": "Condor",
+	"typeName": "Vengeance",
 	}, {
 	"typeId": 11371,
-	"typeName": "Condor",
+	"typeName": "Wolf",
 	}, {
 	"typeId": 11373,
-	"typeName": "Condor",
+	"typeName": "Blade",
 	}, {
 	"typeId": 11375,
-	"typeName": "Condor",
+	"typeName": "Erinye",
 	}, {
 	"typeId": 11379,
-	"typeName": "Condor",
+	"typeName": "Hawk",
 	}, {
 	"typeId": 11381,
-	"typeName": "Condor",
+	"typeName": "Harpy",
 	}, {
 	"typeId": 11383,
-	"typeName": "Condor",
+	"typeName": "Gatherer",
 	}, {
 	"typeId": 11389,
-	"typeName": "Condor",
+	"typeName": "Kishar",
 	}, {
 	"typeId": 11393,
-	"typeName": "Condor",
+	"typeName": "Retribution",
 	}, {
 	"typeId": 11400,
-	"typeName": "Condor",
+	"typeName": "Jaguar",
 	}, {
 	"typeId": 12036,
-	"typeName": "Condor",
+	"typeName": "Dagger",
 	}, {
 	"typeId": 12042,
-	"typeName": "Condor",
+	"typeName": "Ishkur",
 	}, {
 	"typeId": 12044,
-	"typeName": "Condor",
+	"typeName": "Enyo",
 	}, {
 	"typeId": 32207,
-	"typeName": "Condor",
+	"typeName": "Freki",
 	}, {
 	"typeId": 32788,
-	"typeName": "Condor",
+	"typeName": "Cambion",
 	}, {
 	"typeId": 2836,
-	"typeName": "Condor",
+	"typeName": "Adrestia",
 	}, {
 	"typeId": 3518,
-	"typeName": "Condor",
+	"typeName": "Vangel",
 	}, {
 	"typeId": 11993,
-	"typeName": "Condor",
+	"typeName": "Cerberus",
 	}, {
 	"typeId": 11999,
-	"typeName": "Condor",
+	"typeName": "Vagabond",
 	}, {
 	"typeId": 12003,
-	"typeName": "Condor",
+	"typeName": "Zealot",
 	}, {
 	"typeId": 12005,
-	"typeName": "Condor",
+	"typeName": "Ishtar",
 	}, {
 	"typeId": 12011,
-	"typeName": "Condor",
+	"typeName": "Eagle",
 	}, {
 	"typeId": 12015,
-	"typeName": "Condor",
+	"typeName": "Muninn",
 	}, {
 	"typeId": 12019,
-	"typeName": "Condor",
+	"typeName": "Sacrilege",
 	}, {
 	"typeId": 12023,
-	"typeName": "Condor",
+	"typeName": "Deimos",
 	}, {
 	"typeId": 32209,
-	"typeName": "Condor",
+	"typeName": "Mimir",
 	}, {
 	"typeId": 12731,
-	"typeName": "Condor",
+	"typeName": "Bustard",
 	}, {
 	"typeId": 12745,
-	"typeName": "Condor",
-	}, {
-	"typeId": 12745,
-	"typeName": "Condor",
+	"typeName": "Occator",
 	}, {
 	"typeId": 12747,
-	"typeName": "Condor",
+	"typeName": "Mastodon",
 	}, {
 	"typeId": 12753,
-	"typeName": "Condor",
+	"typeName": "Impel",
 	}, {
 	"typeId": 3756,
-	"typeName": "Condor",
+	"typeName": "Gnosis",
 	}, {
 	"typeId": 16227,
-	"typeName": "Condor",
+	"typeName": "Ferox",
 	}, {
 	"typeId": 16229,
-	"typeName": "Condor",
+	"typeName": "Brutix",
 	}, {
 	"typeId": 16231,
-	"typeName": "Condor",
+	"typeName": "Cyclone",
 	}, {
 	"typeId": 16233,
-	"typeName": "Condor",
+	"typeName": "Prophecy",
 	}, {
 	"typeId": 24696,
-	"typeName": "Condor",
+	"typeName": "Harbinger",
 	}, {
 	"typeId": 24698,
-	"typeName": "Condor",
+	"typeName": "Drake",
 	}, {
 	"typeId": 24700,
-	"typeName": "Condor",
+	"typeName": "Myrmidon",
 	}, {
 	"typeId": 24102,
-	"typeName": "Condor",
+	"typeName": "Hurricane",
 	}, {
 	"typeId": 33151,
-	"typeName": "Condor",
+	"typeName": "Brutix Navy Issue",
 	}, {
 	"typeId": 33153,
-	"typeName": "Condor",
+	"typeName": "Drake Navy Issue",
 	}, {
 	"typeId": 33155,
-	"typeName": "Condor",
+	"typeName": "Harbinger Navy Issue",
 	}, {
 	"typeId": 33157,
-	"typeName": "Condor",
+	"typeName": "Hurricane Navy Issue",
 	}, {
 	"typeId": 16236,
-	"typeName": "Condor",
+	"typeName": "Coercer",
 	}, {
 	"typeId": 16238,
-	"typeName": "Condor",
+	"typeName": "Cormorant",
 	}, {
 	"typeId": 16240,
-	"typeName": "Condor",
+	"typeName": "Catalyst",
 	}, {
 	"typeId": 16242,
-	"typeName": "Condor",
+	"typeName": "Thrasher",
 	}, {
 	"typeId": 32872,
-	"typeName": "Condor",
+	"typeName": "Algos",
 	}, {
 	"typeId": 32874,
-	"typeName": "Condor",
+	"typeName": "Dragoon",
 	}, {
 	"typeId": 32876,
-	"typeName": "Condor",
+	"typeName": "Corax",
+	}, {
+	"typeId": 32878,
+	"typeName": "Talwar",
 	}, {
 	"typeId": 33099,
-	"typeName": "Condor",
+	"typeName": "Nefantar Thrasher",
 	}, {
 	"typeId": 17476,
-	"typeName": "Condor",
+	"typeName": "Covetor",
 	}, {
 	"typeId": 17478,
-	"typeName": "Condor",
+	"typeName": "Retriver",
 	}, {
 	"typeId": 17480,
-	"typeName": "Condor",
+	"typeName": "Procurer",
 	}, {
 	"typeId": 19720,
-	"typeName": "Condor",
+	"typeName": "Revelation",
 	}, {
 	"typeId": 19722,
-	"typeName": "Condor",
+	"typeName": "Naglfar",
 	}, {
 	"typeId": 19724,
-	"typeName": "Condor",
+	"typeName": "Moros",
 	}, {
 	"typeId": 19726,
-	"typeName": "Condor",
+	"typeName": "Phoenix",
 	}, {
 	"typeId": 20183,
-	"typeName": "Condor",
+	"typeName": "Providence",
 	}, {
 	"typeId": 20185,
-	"typeName": "Condor",
+	"typeName": "Charon",
 	}, {
 	"typeId": 20187,
-	"typeName": "Condor",
+	"typeName": "Obelisk",
 	}, {
 	"typeId": 20189,
-	"typeName": "Condor",
+	"typeName": "Fenrir",
 	}, {
 	"typeId": 34328,
-	"typeName": "Condor",
+	"typeName": "Bowhead",
 	}, {
 	"typeId": 22442,
-	"typeName": "Condor",
+	"typeName": "Eos",
 	}, {
 	"typeId": 22444,
-	"typeName": "Condor",
+	"typeName": "Sleipnir",
 	}, {
 	"typeId": 22446,
-	"typeName": "Condor",
+	"typeName": "Vulture",
 	}, {
 	"typeId": 22448,
-	"typeName": "Condor",
+	"typeName": "Absolution",
 	}, {
 	"typeId": 22466,
-	"typeName": "Condor",
+	"typeName": "Astarte",
 	}, {
 	"typeId": 22468,
-	"typeName": "Condor",
+	"typeName": "Claymore",
 	}, {
 	"typeId": 22470,
-	"typeName": "Condor",
+	"typeName": "Nighthawk",
 	}, {
 	"typeId": 22474,
-	"typeName": "Condor",
+	"typeName": "Damnation",
 	}, {
 	"typeId": 22452,
-	"typeName": "Condor",
+	"typeName": "Heretic",
 	}, {
 	"typeId": 22456,
-	"typeName": "Condor",
+	"typeName": "Sabre",
 	}, {
 	"typeId": 22460,
-	"typeName": "Condor",
+	"typeName": "Eris",
 	}, {
 	"typeId": 22464,
-	"typeName": "Condor",
+	"typeName": "Flycatcher",
 	}, {
 	"typeId": 22544,
-	"typeName": "Condor",
+	"typeName": "Hulk",
 	}, {
 	"typeId": 22546,
-	"typeName": "Condor",
+	"typeName": "Skiff",
 	}, {
 	"typeId": 22548,
-	"typeName": "Condor",
+	"typeName": "Mackinaw",
 	}, {
 	"typeId": 23757,
-	"typeName": "Condor",
+	"typeName": "Archon",
 	}, {
 	"typeId": 23911,
-	"typeName": "Condor",
+	"typeName": "Thanatos",
 	}, {
 	"typeId": 23915,
-	"typeName": "Condor",
+	"typeName": "Chimera",
 	}, {
 	"typeId": 24483,
-	"typeName": "Condor",
+	"typeName": "Nidhoggur",
 	}, {
 	"typeId": 3541,
-	"typeName": "Condor",
+	"typeName": "Revenant",
 	}, {
 	"typeId": 3628,
-	"typeName": "Condor",
+	"typeName": "Nation",
 	}, {
 	"typeId": 22852,
-	"typeName": "Condor",
+	"typeName": "Hel",
 	}, {
 	"typeId": 23913,
-	"typeName": "Condor",
+	"typeName": "Nyx",
 	}, {
 	"typeId": 23917,
-	"typeName": "Condor",
+	"typeName": "Wyvern",
 	}, {
 	"typeId": 23919,
-	"typeName": "Condor",
+	"typeName": "Aeon",
 	}, {
 	"typeId": 11172,
-	"typeName": "Condor",
+	"typeName": "Helios",
 	}, {
 	"typeId": 11182,
-	"typeName": "Condor",
+	"typeName": "Cheetah",
 	}, {
 	"typeId": 11188,
-	"typeName": "Condor",
+	"typeName": "Anathema",
 	}, {
 	"typeId": 11192,
-	"typeName": "Condor",
+	"typeName": "Buzzard",
 	}, {
 	"typeId": 33397,
-	"typeName": "Condor",
+	"typeName": "Chremoas",
 	}, {
 	"typeId": 11176,
-	"typeName": "Condor",
+	"typeName": "Crow",
 	}, {
 	"typeId": 11178,
-	"typeName": "Condor",
+	"typeName": "Raptor",
 	}, {
 	"typeId": 11184,
-	"typeName": "Condor",
+	"typeName": "Crusader",
 	}, {
 	"typeId": 11186,
-	"typeName": "Condor",
+	"typeName": "Malediction",
 	}, {
 	"typeId": 11196,
-	"typeName": "Condor",
+	"typeName": "Claw",
 	}, {
 	"typeId": 11198,
-	"typeName": "Condor",
+	"typeName": "Stiletto",
 	}, {
 	"typeId": 11200,
-	"typeName": "Condor",
+	"typeName": "Taranis",
 	}, {
 	"typeId": 11202,
-	"typeName": "Condor",
+	"typeName": "Ares",
 	}, {
 	"typeId": 33673,
-	"typeName": "Condor",
+	"typeName": "Whiptail",
 	}, {
 	"typeId": 35779,
-	"typeName": "Condor",
+	"typeName": "Imp",
 	}, {
 	"typeId": 11978,
-	"typeName": "Condor",
+	"typeName": "Scimitar",
 	}, {
 	"typeId": 11985,
-	"typeName": "Condor",
+	"typeName": "Basilisk",
 	}, {
 	"typeId": 11987,
-	"typeName": "Condor",
+	"typeName": "Guardian",
 	}, {
 	"typeId": 11989,
-	"typeName": "Condor",
+	"typeName": "Oneiros",
 	}, {
 	"typeId": 32790,
-	"typeName": "Condor",
+	"typeName": "Etana",
 	}, {
 	"typeId": 11957,
-	"typeName": "Condor",
+	"typeName": "Falcon",
 	}, {
 	"typeId": 11963,
-	"typeName": "Condor",
+	"typeName": "Rapier",
 	}, {
 	"typeId": 11965,
-	"typeName": "Condor",
+	"typeName": "Pilgrim",
 	}, {
 	"typeId": 11969,
-	"typeName": "Condor",
+	"typeName": "Arazu",
 	}, {
 	"typeId": 33395,
-	"typeName": "Condor",
+	"typeName": "Moracha",
 	}, {
 	"typeId": 33675,
-	"typeName": "Condor",
+	"typeName": "Chameleon",
 	}, {
 	"typeId": 11377,
-	"typeName": "Condor",
+	"typeName": "Nemesis",
 	}, {
 	"typeId": 12032,
-	"typeName": "Condor",
+	"typeName": "Manticore",
 	}, {
-	"typeId": 12037,
-	"typeName": "Condor",
+	"typeId": 12034,
+	"typeName": "Hound",
 	}, {
 	"typeId": 12038,
-	"typeName": "Condor",
+	"typeName": "Purifier",
 	}, {
 	"typeId": 28352,
-	"typeName": "Condor",
+	"typeName": "Rorqual",
 	}, {
 	"typeId": 11174,
-	"typeName": "Condor",
+	"typeName": "Keres",
 	}, {
 	"typeId": 11190,
-	"typeName": "Condor",
+	"typeName": "Sentinel",
 	}, {
 	"typeId": 11194,
-	"typeName": "Condor",
+	"typeName": "Kitsune",
 	}, {
 	"typeId": 11387,
-	"typeName": "Condor",
+	"typeName": "Hyena",
 	}, {
 	"typeId": 11995,
-	"typeName": "Condor",
+	"typeName": "Onyx",
 	}, {
 	"typeId": 12013,
-	"typeName": "Condor",
+	"typeName": "Broadswoard",
 	}, {
 	"typeId": 12017,
-	"typeName": "Condor",
+	"typeName": "Devoter",
 	}, {
 	"typeId": 12021,
-	"typeName": "Condor",
+	"typeName": "Phobos",
 	}, {
 	"typeId": 35781,
-	"typeName": "Condor",
+	"typeName": "Fiend",
 	}, {
 	"typeId": 22428,
-	"typeName": "Condor",
+	"typeName": "Redeemer",
 	}, {
 	"typeId": 22430,
-	"typeName": "Condor",
+	"typeName": "Sin",
 	}, {
 	"typeId": 22436,
-	"typeName": "Condor",
+	"typeName": "Widow",
 	}, {
 	"typeId": 22440,
-	"typeName": "Condor",
+	"typeName": "Panther",
 	}, {
 	"typeId": 28659,
-	"typeName": "Condor",
+	"typeName": "Paladin",
 	}, {
 	"typeId": 28661,
-	"typeName": "Condor",
+	"typeName": "Kronos",
 	}, {
 	"typeId": 28665,
-	"typeName": "Condor",
+	"typeName": "Vargur",
 	}, {
 	"typeId": 28710,
-	"typeName": "Condor",
+	"typeName": "Golem",
 	}, {
 	"typeId": 28844,
-	"typeName": "Condor",
+	"typeName": "Rhea",
 	}, {
 	"typeId": 28846,
-	"typeName": "Condor",
+	"typeName": "Nomad",
 	}, {
 	"typeId": 28848,
-	"typeName": "Condor",
+	"typeName": "Anshar",
 	}, {
 	"typeId": 28850,
-	"typeName": "Condor",
+	"typeName": "Ark",
 	}, {
 	"typeId": 11959,
-	"typeName": "Condor",
+	"typeName": "Rook",
 	}, {
 	"typeId": 11961,
-	"typeName": "Condor",
+	"typeName": "Huginn",
 	}, {
 	"typeId": 11971,
-	"typeName": "Condor",
+	"typeName": "Lachesis",
 	}, {
 	"typeId": 20125,
-	"typeName": "Condor",
+	"typeName": "Curse",
 	}, {
 	"typeId": 28606,
-	"typeName": "Condor",
+	"typeName": "Orca",
 	}, {
 	"typeId": 29984,
-	"typeName": "Condor",
+	"typeName": "Tengu",
 	}, {
 	"typeId": 29986,
-	"typeName": "Condor",
+	"typeName": "Legion",
 	}, {
 	"typeId": 29988,
-	"typeName": "Condor",
+	"typeName": "Proteus",
 	}, {
 	"typeId": 29990,
-	"typeName": "Condor",
+	"typeName": "Loki",
 	}, {
 	"typeId": 2078,
-	"typeName": "Condor",
+	"typeName": "Zehpyr",
 	}, {
 	"typeId": 4302,
-	"typeName": "Condor",
+	"typeName": "Oracle",
 	}, {
 	"typeId": 4306,
-	"typeName": "Condor",
+	"typeName": "Naga",
 	}, {
 	"typeId": 4308,
-	"typeName": "Condor",
+	"typeName": "Talos",
 	}, {
 	"typeId": 4310,
-	"typeName": "Condor",
+	"typeName": "Tornado",
 	}, {
 	"typeId": 12729,
-	"typeName": "Condor",
+	"typeName": "Crane",
 	}, {
 	"typeId": 12733,
-	"typeName": "Condor",
+	"typeName": "Prorator",
 	}, {
 	"typeId": 12753,
-	"typeName": "Condor",
+	"typeName": "Prowler",
 	}, {
 	"typeId": 12743,
-	"typeName": "Condor",
+	"typeName": "Viator",
 	}, {
 	"typeId": 33697,
-	"typeName": "Condor",
+	"typeName": "Prospect",
 	}, {
 	"typeId": 37135,
-	"typeName": "Condor",
+	"typeName": "Endurance",
 	}, {
 	"typeId": 34317,
-	"typeName": "Condor",
+	"typeName": "Confessor",
 	}, {
 	"typeId": 34562,
-	"typeName": "Condor",
+	"typeName": "Svipul",
 	}, {
 	"typeId": 34828,
-	"typeName": "Condor",
+	"typeName": "Jackdaw",
 	}, {
 	"typeId": 35683,
-	"typeName": "Condor",
+	"typeName": "Hecate",
 	}, {
 	"typeId": 37457,
-	"typeName": "Condor",
+	"typeName": "Deacon",
 	}, {
 	"typeId": 37458,
-	"typeName": "Condor",
+	"typeName": "Kirin",
 	}, {
 	"typeId": 37459,
-	"typeName": "Condor",
+	"typeName": "Thalia",
 	}, {
 	"typeId": 37460,
-	"typeName": "Condor",
+	"typeName": "Scalpel",
 	}, {
 	"typeId": 37480,
-	"typeName": "Condor",
+	"typeName": "Bifrost",
 	}, {
 	"typeId": 37481,
-	"typeName": "Condor",
+	"typeName": "Pontifex",
 	}, {
 	"typeId": 37482,
-	"typeName": "Condor",
+	"typeName": "Stork",
 	}, {
 	"typeId": 37483,
-	"typeName": "Condor",
+	"typeName": "Magus",
 	}, {
 	"typeId": 37604,
-	"typeName": "Condor",
+	"typeName": "Apostle",
 	}, {
 	"typeId": 37605,
-	"typeName": "Condor",
+	"typeName": "Minokawa",
 	}, {
 	"typeId": 37606,
-	"typeName": "Condor",
+	"typeName": "Lif",
 	}, {
 	"typeId": 37607,
-	"typeName": "Condor",
+	"typeName": "Ninazu",
 	}
 }]

@@ -100,7 +100,6 @@ typeID,typeName
 33639,Omen Kador Edition
 33818,Orthrus
 34445,Vexor Quafe Edition
-
 34590,Victorieux Luxury Yacht
 638,Raven
 639,Tempest
@@ -140,7 +139,6 @@ typeID,typeName
 33472,Nestor
 33820,Barghest
 34151,Rattlesnake Victory Edition
-
 648,Badger
 649,Tayra
 650,Nereus
@@ -185,12 +183,6 @@ typeID,typeName
 606,Velator
 615,Immolator
 617,Echo
-
-***************
-KOMINN HINGAÐ
-***************
-|
-V
 1233,Polaris Enigma Frigate
 9854,Polaris Inspector Frigate
 9858,Polaris Centurion TEST
