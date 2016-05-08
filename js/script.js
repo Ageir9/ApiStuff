@@ -3,6 +3,19 @@
 /*global $, jQuery, alert*/
 "use strict";
 Vue.config.debug = true;
+//Router
+var Top = Vue.extend({
+    template: '<p>Go to bottom</p>'
+});
+
+var Bottom = Vue.extend({
+    template: '<p>Go to top</p>'
+});
+
+//var Vue = require('vue');
+//var VueRouter = require('vue-router');
+Vue.use(VueRouter);
+
 
 new Vue({
     el: '#nuggets',
@@ -13,7 +26,8 @@ new Vue({
     attached: function () {
         var $this = this;
         //https://zkillboard.com/api/alliance/99006112/
-        $.getJSON("js/data.json", function (killData) {
+        //https://zkillboard.com/api/character/94406674/
+        $.getJSON("js/chardata.json", function (killData) {
             killData.forEach(function (data) {
                 var strippedData = data;
             });
@@ -22,5 +36,6 @@ new Vue({
             console.log($this.output);
             $this.loading = false;
         });
+        
     }
 });
