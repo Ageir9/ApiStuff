@@ -8,16 +8,17 @@
     </head>
 <body>
 <div class="ui container">
-    <br><br>
-    <div id=nuggets>
+    <div id=app>
         <div v-if="!loading" class="ui active inverted dimmer">
-            <h3 class="top">Há þrír hedder</h3>
+            <a v-link="{ path: '/top'}">Go to bottom</a>
+            <a v-link="'top'"><h3 class="top">Character killboard</h3></a>
             <table id="Tabledisplay" class="ui celled table">
                 <thead>
                     <tr>
                         <th>Time</th>
-                        <th>Ship</th>
                         <th>Solar System</th>
+                        <th>Ship</th>
+                        <th>Damage Taken</th>
                         <th>Victim</th>
                         <th>Killer</th>
                         <th>Corporation</th>
@@ -26,14 +27,22 @@
                 <tbody>
                     <tr v-for="kill in output">
                         <script type="text/javascript">
+                        //If killer is blank and corp is CONCORD, killer is CONCORD, otherwise Unknown.
+                        /*
                         if (kill.attackers.characterName == ""  && kill.attackers.corporationName == "CONCORD")
                         {
                             kill.attackers.characterName == "CONCORD Officer";
-                        }                        
+                        }
+                        else
+                        {
+                            kill.attackers.characterName == "Unknown";
+                        }
+                        */
                         </script>
                         <td>{{kill.killTime}}</td>
-                        <td>{{kill.victim.shipTypeID}}</td>
                         <td>{{kill.solarSystemID}}</td>
+                        <td>{{kill.victim.shipTypeID}}</td>
+                        <td>{{kill.victim.damageTaken}}</td>
                         <td>{{kill.victim.characterName}}</td>
                         <td>{{kill.attackers.characterName}}</td>
                         <td>{{kill.attackers.corporationName}}</td>
@@ -43,8 +52,8 @@
         </div>
     </div>
 </div>
-    <script type="application/javascript" src="https://cdn.jsdelivr.net/vue.router/0.7.10/vue-router.min.js"></script>
     <script type="text/javascript" src="js/vue.js"></script>
+    <script type="application/javascript" src="https://cdn.jsdelivr.net/vue.router/0.7.10/vue-router.min.js"></script>
     <script type="application/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script type="application/javascript" src ="dist/semantic.min.js"></script>
     <script type="application/javascript" src="js/data.json"></script>
