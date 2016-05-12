@@ -1,50 +1,55 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <title>API shasizzle</title>
+    <title>API killboard</title>
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="dist/semantic.min.css">
         <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/t/dt/jq-2.2.0,dt-1.10.11,r-2.0.2/datatables.min.css"/>
     </head>
 <body>
 <div class="ui container">
-    <h3 class="top">Há þrír hedder</h3>
-    <br><br>
-    <div id=nuggets>
+    <div id=app>
         <div v-if="!loading" class="ui active inverted dimmer">
+             <!--Þetta er fyrir routing, routing<a v-link="{ path: '/top'}">Go to bottom</a>-->
+            <a v-link="'top'"><h3 class="top">Character killboard</h3></a>
+            
+            <div id="filter-by-stuff">
+                <h4>Filter:</h4><input v-model="name">
+            </div>
+            
             <table id="Tabledisplay" class="ui celled table">
                 <thead>
                     <tr>
                         <th>Time</th>
-                        <th>Ship</th>
                         <th>Solar System</th>
+                        <th>Ship</th>
+                        <th>Damage Taken</th>
                         <th>Victim</th>
                         <th>Killer</th>
                         <th>Corporation</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr v-for="kill in output">
+                    <tr v-for="kill in output | filterBy name in 'killTime' 'solarSystemID' 'victim.characterName' 'victim.shipTypeID' 'attackers[0].characterName' 'attackers[0].corporationName'">
                         <td>{{kill.killTime}}</td>
-                        <td>{{kill.victim.shipTypeID}}</td>
                         <td>{{kill.solarSystemID}}</td>
+                        <td>{{kill.victim.shipTypeID}}</td>
+                        <td>{{kill.victim.damageTaken}}</td>
                         <td>{{kill.victim.characterName}}</td>
-                        <td>{{kill.attackers.characterName}}</td>
-                        <td>{{kill.attackers.corporationName}}</td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
+                        <td>{{kill.attackers[0].characterName}}</td>
+                        <td>{{kill.attackers[0].corporationName}}</td>
                     </tr>
                 </tbody>
-            </table>  
+            </table> 
+            <!--<a v-link="{ path: '/bottom'}">Go to top</a>-->
         </div>
     </div>
 </div>
-    <script type="text/javascript" src="js/vue.js"></script>
+    <script type="text/javascript" src="js/vue.js"></script>    
     <script type="application/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script type="application/javascript" src ="dist/semantic.min.js"></script>
     <script type="application/javascript" src="js/data.json"></script>
     <script type="application/javascript" src="js/script.js"></script>
+    <!-- <script type="application/javascript" src="https://cdn.jsdelivr.net/vue.router/0.7.10/vue-router.min.js"></script> -->
     </body>
 </html> 
