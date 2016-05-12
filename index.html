@@ -10,6 +10,7 @@
 <div class="ui container">
     <div id=app>
         <div v-if="!loading" class="ui active inverted dimmer">
+<<<<<<< HEAD
              <!--Þetta er fyrir routing, routing<a v-link="{ path: '/top'}">Go to bottom</a>-->
             <a v-link="'top'"><h3 class="top">Character killboard</h3></a>
             
@@ -17,6 +18,10 @@
                 <h4>Filter:</h4><input v-model="name">
             </div>
             
+=======
+            <a v-link="{ path: '/top'}">Go to bottom</a>
+            <a v-link="'top'"><h3 class="top">Character killboard</h3></a>
+>>>>>>> origin/master
             <table id="Tabledisplay" class="ui celled table">
                 <thead>
                     <tr>
@@ -30,14 +35,36 @@
                     </tr>
                 </thead>
                 <tbody>
+<<<<<<< HEAD
                     <tr v-for="kill in output | filterBy name in 'killTime' 'solarSystemID' 'victim.characterName' 'victim.shipTypeID' 'attackers[0].characterName' 'attackers[0].corporationName'">
+=======
+                    <tr v-for="kill in output">
+                        <script type="text/javascript">
+                        //If killer is blank and corp is CONCORD, killer is CONCORD, otherwise Unknown.
+                        /*
+                        if (kill.attackers.characterName == ""  && kill.attackers.corporationName == "CONCORD")
+                        {
+                            kill.attackers.characterName == "CONCORD Officer";
+                        }
+                        else
+                        {
+                            kill.attackers.characterName == "Unknown";
+                        }
+                        */
+                        </script>
+>>>>>>> origin/master
                         <td>{{kill.killTime}}</td>
                         <td>{{kill.solarSystemID}}</td>
                         <td>{{kill.victim.shipTypeID}}</td>
                         <td>{{kill.victim.damageTaken}}</td>
                         <td>{{kill.victim.characterName}}</td>
+<<<<<<< HEAD
                         <td>{{kill.attackers[0].characterName}}</td>
                         <td>{{kill.attackers[0].corporationName}}</td>
+=======
+                        <td>{{kill.attackers.characterName}}</td>
+                        <td>{{kill.attackers.corporationName}}</td>
+>>>>>>> origin/master
                     </tr>
                 </tbody>
             </table> 
@@ -45,7 +72,12 @@
         </div>
     </div>
 </div>
+<<<<<<< HEAD
     <script type="text/javascript" src="js/vue.js"></script>    
+=======
+    <script type="text/javascript" src="js/vue.js"></script>
+    <script type="application/javascript" src="https://cdn.jsdelivr.net/vue.router/0.7.10/vue-router.min.js"></script>
+>>>>>>> origin/master
     <script type="application/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script type="application/javascript" src ="dist/semantic.min.js"></script>
     <script type="application/javascript" src="js/data.json"></script>

@@ -4,10 +4,16 @@
 "use strict";
 Vue.config.debug = true;
 
+<<<<<<< HEAD
 //Býr til router
 //http://router.vuejs.org/en/installation.html
 //Brýtur allt í leiðinni
 /*
+=======
+//Router
+//Býr til router http://router.vuejs.org/en/installation.html
+//Brýtur allt í leiðinni
+>>>>>>> origin/master
 var Vue = require('vue');
 var VueRouter = require('vue-router');
 Vue.use(VueRouter);
@@ -33,7 +39,11 @@ router.map({
 });
 //initialize router
 router.start(App, '#app');
+<<<<<<< HEAD
 */
+=======
+
+>>>>>>> origin/master
 new Vue({
     el: '#app',
     data: {
@@ -43,6 +53,7 @@ new Vue({
     attached: function () {
         //Þetta virkar einhvernveginn
         var $this = this;
+<<<<<<< HEAD
         var shipdata;
         
         //js/chardata.json
@@ -70,6 +81,14 @@ new Vue({
                     });
                 });
                 
+=======
+        
+        //https://zkillboard.com/api/alliance/99006112/
+        //js/chardata.json
+        $.getJSON("https://zkillboard.com/api/character/94406674/", function (killData) {
+            killData.forEach(function (data) {
+                var strippedData = data;
+>>>>>>> origin/master
             });
             console.log(killData[1]);
             
